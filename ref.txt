@@ -1,0 +1,12 @@
+Ref. Link
+
+https://www.geeksforgeeks.org/python-list-files-in-a-directory/
+
+https://www.w3schools.com/python/python_regex.asp
+
+https://www.w3schools.com/python/python_file_write.asp
+
+https://www.geeksforgeeks.org/create-a-new-text-file-in-python/
+
+https://www.geeksforgeeks.org/writing-to-file-in-python/
+

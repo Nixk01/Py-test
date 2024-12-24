@@ -1,0 +1,21 @@
+import re
+import os
+
+path = '/home/rd/nixk/Py/'  # file path
+
+for x in os.listdir():
+    if x.endswith("prod.txt"):
+
+        # Prints only text file present in My Folder
+        # print(x)
+        # for i in x: 
+        #     print(i)
+        # # open both files 
+        with open(x,'r') as firstfile, open("myfile.txt",'w') as secondfile: 
+            
+            # read content from first file 
+            for line in firstfile: 
+                    
+                    # append content to second file 
+                    secondfile.write(line)
+                    # f = open("myfile.txt", "w")
