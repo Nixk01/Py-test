@@ -11,11 +11,16 @@ for x in os.listdir():
         # for i in x: 
         #     print(i)
         # # open both files 
-        with open(x,'r') as firstfile, open("myfile.txt",'w') as secondfile: 
+        firstfile = open(os.path.join(path,x),'r')
+        secondfile = open(os.path.join(path,''.join(x.split('.prod'))),'w')
+
+        print(firstfile)
+        print(secondfile)
+        # with open(os.path.join(path,x),'r') as firstfile, open("a.txt",'w') as secondfile: 
             
             # read content from first file 
-            for line in firstfile: 
-                    
-                    # append content to second file 
-                    secondfile.write(line)
-                    # f = open("myfile.txt", "w")
+        for line in firstfile: 
+            
+                # append content to second file 
+                secondfile.write(line)
+                # f = open("myfile.txt", "w")
