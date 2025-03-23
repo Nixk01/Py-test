@@ -16,4 +16,4 @@
 ' 
     git -C /home/rd/nixk/Py add .
     git -C /home/rd/nixk/Py commit -m "another commit"
-    git -C /home/rd/nixk/Py push origin master
+    git -C /home/rd/nixk/Py push -ff origin main
