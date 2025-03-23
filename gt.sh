@@ -3,7 +3,7 @@
     # cd /path/to/your/local/repository
 
     cd /home/rd/nixk/Py
-    
+
     # Add all changes
     git add .
 
