@@ -16,7 +16,7 @@
 
     git -C /home/rd/nixk/Py add .
 
-    git -C /home/rd/nixk/Py commit -m "another commit"
+#    git -C /home/rd/nixk/Py commit -m "another commit"
 
 counter=1
 while [ $counter -le 2 ]; do
