@@ -17,7 +17,7 @@
     git -C /home/rd/nixk/Py add .
 
 #    git -C /home/rd/nixk/Py commit -m "another commit"
-
+:'
 counter=1
 while [ $counter -le 2 ]; do
   timestamp=$(date +"%Y-%m-%d %T")
@@ -26,3 +26,7 @@ while [ $counter -le 2 ]; do
 done
 
     git -C /home/rd/nixk/Py push -ff origin main
+
+'
+
+
