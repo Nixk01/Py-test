@@ -1,0 +1,34 @@
+/bin/sh: 1: /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS/auto_aws.sh: Permission denied
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+fatal: detected dubious ownership in repository at '/home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/rd/Downloads/Learning/SAA_C03/ETC/Imgs-SS
+[main 7640962] Auto commit on 2025-03-27 06:00:01
+ 5 files changed, 13 insertions(+)
+ delete mode 100644 a
+ create mode 100755 auto_aws.sh
+ delete mode 100644 ll
+ delete mode 100644 ls
+ delete mode 100644 status.log
+remote: Repository not found.
+fatal: repository 'https://github.com/Nixk01/AWS-tst.git/' not found
